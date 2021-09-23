@@ -100,5 +100,8 @@
   <ItemGroup>
     <Resource Include="asets\128.ico" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="asets\monitor_window.ico" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

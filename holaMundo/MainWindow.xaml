@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:holaMundo"
         mc:Ignorable="d"
-        Title="Hola Mundo" Icon="C:\Users\alumno\Desktop\SyncDam\2DAM\DINT\Proyectos\holaMundo\holaMundo\asets\128.ico" Height="450" Width="800">
+        Title="Hola Mundo" Icon="C:\Users\alumno\Desktop\SyncDam\2DAM\DINT\Proyectos\holaMundo\holaMundo\asets\monitor_window.ico" Height="450" Width="800">
     <Grid>
         <Grid.Background>
             <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
@@ -16,7 +16,7 @@
         <TextBlock x:Name="MensajeTextBlock" HorizontalAlignment="Left" Margin="183,127,0,0" TextWrapping="Wrap" Text="Hola Mundo!" VerticalAlignment="Top" Height="62" Width="269" FontSize="36" FontWeight="Bold" TextAlignment="Center" Foreground="#FFE21717">
             <TextBlock.Background>
                 <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
-                    <GradientStop Color="#FF278ED5"/>
+                    <GradientStop Color="#FF278ED4"/>
                     <GradientStop Color="#FF1DDA96" Offset="1"/>
                 </LinearGradientBrush>
             </TextBlock.Background>
