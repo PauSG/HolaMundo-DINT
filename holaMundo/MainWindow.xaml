@@ -16,7 +16,7 @@
         <TextBlock x:Name="MensajeTextBlock" HorizontalAlignment="Left" Margin="183,127,0,0" TextWrapping="Wrap" Text="Hola Mundo!" VerticalAlignment="Top" Height="62" Width="269" FontSize="36" FontWeight="Bold" TextAlignment="Center" Foreground="#FFE21717">
             <TextBlock.Background>
                 <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
-                    <GradientStop Color="#FF278ED4"/>
+                    <GradientStop Color="#FF278ED5"/>
                     <GradientStop Color="#FF1DDA96" Offset="1"/>
                 </LinearGradientBrush>
             </TextBlock.Background>
